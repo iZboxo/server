@@ -1,0 +1,28 @@
+swelcome:
+  location: survival, 47.490, 72.200, -217.390
+  lines:
+  - Vítejte na &2&lSurvivalu!
+mineex:
+  location: world, -1.557, 47.700, -1.602
+  lines:
+  - Vítejte na &1&lMineexu!
+mineex2:
+  location: world, -1.574, 47.700, 2.573
+  lines:
+  - Najdete tady &2&lSurvival!
+  - Více se připravuje!
+residence:
+  location: world, 950.640, 50.200, 892.490
+  lines:
+  - '&2&lJak si vytvořit resku!'
+  - '&9Stačí napsat /res auto <-- A residence se vytvoří'
+  - '&4nebo'
+  - '&9Si vem dřevěnou motyku, pravým klikni na [Bod 1.] a levým na [Bod 2.]'
+  - '&9A do chatu napiš:'
+  - '&9/res select vert - Označí od bedrocku až po nebe'
+  - '&9A dále:'
+  - '&9/res create <Název>'
+enchant:
+  location: world, 940.108, 61.200, 903.056
+  lines:
+  - '&6&lEnchant'

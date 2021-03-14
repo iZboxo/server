@@ -1,0 +1,12 @@
+format-version: '2'
+config:
+  msgToConsole: true
+  enableLeftClick: false
+armor_stands:
+  loc(-10,45,1):
+    commands:
+    - 'player /warp survival '
+    - 'player warp survival '
+  loc(958,52,887):
+    commands:
+    - 'player warp survival '

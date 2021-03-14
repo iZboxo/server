@@ -1,0 +1,18 @@
+# 
+# +------------------------------------------------------+ #
+# |           Custom Ban Plugin Configuration            | #
+# +------------------------------------------------------+ #
+checkforupdates: true
+PrefixEnabled: true
+Prefix: '&7[&6CustomBanPlugin&7] '
+broadcast:
+  kick: true
+  ban: true
+  unban: false
+  temp-ban: true
+bans:
+  izboxo:
+    banned: true
+    bannedby: CONSOLE
+    date: 29-12-2020 16:40:46
+    reason: The ban hammer has spoken

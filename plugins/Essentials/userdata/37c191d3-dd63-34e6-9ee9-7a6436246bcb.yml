@@ -1,0 +1,19 @@
+lastAccountName: pathfinder_Bot2
+timestamps:
+  login: 1613728566494
+  logout: 1613728891156
+ipAddress: 192.168.255.57
+lastlocation:
+  world: world
+  x: -90.0
+  y: 71.0
+  z: 9.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 10.517632524482021
+  y: 45.0
+  z: 7.455908325907074
+  yaw: 89.99992
+  pitch: -1.5001111

@@ -1,0 +1,20 @@
+lastAccountName: general_kubo
+timestamps:
+  login: 1613996478860
+  logout: 1613996465540
+  lastteleport: 1613996798296
+ipAddress: 51.89.81.30
+lastlocation:
+  world: survival
+  x: 50.4832148479572
+  y: 71.0
+  z: -217.5091432781045
+  yaw: 88.049355
+  pitch: -4.650059
+logoutlocation:
+  world: world
+  x: 963.9646894860065
+  y: 52.0625
+  z: 891.1703557257634
+  yaw: 90.450165
+  pitch: -7.499975

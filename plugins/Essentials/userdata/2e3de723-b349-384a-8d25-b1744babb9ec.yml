@@ -1,0 +1,21 @@
+lastAccountName: IToncek
+timestamps:
+  login: 1613995933938
+  logout: 1613997173445
+  lastteleport: 1613997165915
+ipAddress: 51.195.87.159
+lastlocation:
+  world: survival
+  x: 50.4832148479572
+  y: 71.0
+  z: -217.5091432781045
+  yaw: 197.83493
+  pitch: 45.450493
+logoutlocation:
+  world: world
+  x: 967.5769869061544
+  y: 55.0
+  z: 892.7424040588595
+  yaw: 104.33017
+  pitch: 7.3754864
+afk: false

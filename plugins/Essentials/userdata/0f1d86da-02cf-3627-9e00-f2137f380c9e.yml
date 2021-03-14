@@ -1,0 +1,21 @@
+lastAccountName: honza2535
+timestamps:
+  login: 1609355203065
+  logout: 1609355223477
+  lastteleport: 1609351463352
+ipAddress: 86.49.251.54
+lastlocation:
+  world: world
+  x: 0.0
+  y: 45.0
+  z: 2.106068295259526
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -3.25233107970807
+  y: 46.0
+  z: -1.9268795997143315
+  yaw: 49.132774
+  pitch: 10.821512
+afk: false

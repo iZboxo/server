@@ -1,0 +1,28 @@
+# Commands will be run prior to the join event so the player won't have joined the server.
+
+vpn-proxy-protection: true
+malicious-ip-protection: true
+staffAlerts: true
+alertsGroupingTime: 5000
+
+bypass:
+  - uuid
+  - uuid2
+ipBypass:
+  - 1.1.1.1
+  - 4.4.4.4
+
+runCommands: false
+detectionCommands:
+  - "example %player% test"
+
+messages:
+  vpn:
+    kickMessage: '&7You cannot connect on a &cVPN &7or &cProxy.'
+    staffMessage: '&c%name% attempted to join using a VPN or Proxy.'
+  malicious:
+    kickMessage: '&7Your IP address seems to be involved in &cmalicious activity.'
+    staffMessage: '&c%name% attempted to join using a malicious IP address.'
+
+permissions:
+  vpnAlerts: antivpn.alerts

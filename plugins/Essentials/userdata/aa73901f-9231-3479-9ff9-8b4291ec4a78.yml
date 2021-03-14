@@ -1,0 +1,21 @@
+lastAccountName: matesjun
+timestamps:
+  login: 1609432334299
+  lastteleport: 1609349787703
+  logout: 1609433023190
+ipAddress: 85.160.3.96
+lastlocation:
+  world: world
+  x: -6.402752215767153
+  y: 45.0
+  z: 1.0464989932796984
+  yaw: -276.4016
+  pitch: 2.4854803
+afk: false
+logoutlocation:
+  world: survival
+  x: 103.59955002077919
+  y: 88.62127379236523
+  z: -242.79781606909296
+  yaw: -309.3683
+  pitch: 32.82436
